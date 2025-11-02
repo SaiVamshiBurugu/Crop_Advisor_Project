@@ -3,7 +3,7 @@
 An interactive web application that predicts the **best crop to grow** based on soil and environmental conditions.  
 This project integrates a **Random Forest Machine Learning model** with a **Streamlit web interface**, providing farmers, researchers, and agricultural planners with data-driven crop recommendations.
 
-Check the App Realtime Using this Link : https://cropadvisorproject-mg3y6edds6bymnannfvaml.streamlit.app/
+Check the App Here: https://cropadvisorproject-mg3y6edds6bymnannfvaml.streamlit.app/
 ---
 
 ## 📘 Overview
@@ -84,6 +84,7 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 ```
+
 
 
 
